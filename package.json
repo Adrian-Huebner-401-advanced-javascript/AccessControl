@@ -30,5 +30,13 @@
     "require-directory": "^2.1.1",
     "supertest": "^3.3.0",
     "swagger-ui-express": "^4.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian-Huebner-401-advanced-javascript/AccessControl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adrian-Huebner-401-advanced-javascript/AccessControl/issues"
+  },
+  "homepage": "https://github.com/Adrian-Huebner-401-advanced-javascript/AccessControl#readme"
 }
